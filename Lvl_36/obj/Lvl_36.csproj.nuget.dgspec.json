@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj": {}
+    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj": {
+    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj",
-        "projectName": "Lvl_33",
-        "projectPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj",
+        "projectUniqueName": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj",
+        "projectName": "Lvl_36",
+        "projectPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj",
         "packagesPath": "C:\\Users\\aspdg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\obj\\",
+        "outputPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aspdg\\AppData\\Roaming\\NuGet\\NuGet.Config"

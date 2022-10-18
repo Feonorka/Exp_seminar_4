@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj",
-      "projectName": "Lvl_33",
-      "projectPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\Lvl_33.csproj",
+      "projectUniqueName": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_34\\Lvl_34.csproj",
+      "projectName": "Lvl_34",
+      "projectPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_34\\Lvl_34.csproj",
       "packagesPath": "C:\\Users\\aspdg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_33\\obj\\",
+      "outputPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aspdg\\AppData\\Roaming\\NuGet\\NuGet.Config"
