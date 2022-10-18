@@ -1,0 +1,15 @@
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\bin\Debug\net6.0\Lvl_31.exe
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\bin\Debug\net6.0\Lvl_31.deps.json
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\bin\Debug\net6.0\Lvl_31.runtimeconfig.json
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\bin\Debug\net6.0\Lvl_31.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\bin\Debug\net6.0\Lvl_31.pdb
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.csproj.AssemblyReference.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.AssemblyInfoInputs.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.AssemblyInfo.cs
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.csproj.CoreCompileInputs.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\refint\Lvl_31.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.pdb
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\Lvl_31.genruntimeconfig.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_31\obj\Debug\net6.0\ref\Lvl_31.dll
