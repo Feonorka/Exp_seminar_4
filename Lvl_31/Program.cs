@@ -106,3 +106,10 @@ Console.WriteLine($"Сумма положительных элементов м�
 // int sumNegative = GetSumNegativeElem(arr);
 // Console.WriteLine($"Сумма положительных элементов = {sumPositive}");
 // Console.WriteLine($"Сумма отрицательных элементов = {sumNegative}");
+
+// double[] resArr = new double[num];
+// var rnd = new Random();
+// for (int i = 0; i < array.Length; i++)
+// {
+//     array1[i] = rnd.NextDouble() * (max - min) + min;
+// }
