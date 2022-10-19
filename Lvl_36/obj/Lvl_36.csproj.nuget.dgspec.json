@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj": {}
+    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_36\\Lvl_36.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj": {
+    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_36\\Lvl_36.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj",
+        "projectUniqueName": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_36\\Lvl_36.csproj",
         "projectName": "Lvl_36",
-        "projectPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\Lvl_36.csproj",
-        "packagesPath": "C:\\Users\\aspdg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aspdg\\OneDrive\\Документы\\C#Sem_4\\Lvl_36\\obj\\",
+        "projectPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_36\\Lvl_36.csproj",
+        "packagesPath": "C:\\Users\\ivc_YutishevAA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_36\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aspdg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ivc_YutishevAA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
